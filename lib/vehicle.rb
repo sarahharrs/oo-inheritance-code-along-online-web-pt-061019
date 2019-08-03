@@ -1,4 +1,4 @@
-require_relative "./vehicle.rb"
+require_relative "./car.rb"
 
 class Vehicle
   attr_accessor :wheel_size, :wheel_number
